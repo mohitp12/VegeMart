@@ -1,0 +1,85 @@
+body{
+    width: 1024px;
+    margin: auto;
+    font-family:Arial;
+    background-color: lightgrey;
+    color: white;
+}
+
+/*div{
+    font-size:26px;
+    margin-right: 100px;
+    margin-top: 50px;
+    float: right;
+    width: 500px;
+    height: 500px;
+    color: grey;
+}*/
+
+#i1{
+    margin:50px;
+    height:300px;
+    width: 300px;
+    float: right;
+    background-image: url("images/savetime.png");
+}
+
+#i2{
+    margin:50px;
+    height:300px;
+    width: 300px;
+    float: left;
+    background-image: url("images/workingwomen.png");
+}
+
+#i3{
+    margin:50px;
+    height:300px;
+    width: 300px;
+    float: right;
+    background-image: url("images/restaurant.png");
+}
+
+#i4{
+    margin:50px;
+    height:300px;
+    width: 300px;
+    float: left;
+    background-image: url("images/caterer.png");
+}
+
+#t1{
+    margin:50px;
+    height:300px;
+    width: 500px;
+    float: left;
+    font-size:40px;
+    text-shadow: 2px 2px 2px black;
+}
+
+#t2{
+    margin:50px;
+    height:300px;
+    width: 500px;
+    float: right;
+     font-size:40px;
+    text-shadow: 2px 2px 2px black;
+}
+
+#t3{
+    margin:50px;    
+    height:300px;
+    width: 500px;
+    float: left;
+     font-size:40px;
+    text-shadow: 2px 2px 2px black;
+}
+
+#t4{
+    margin:50px;    
+    height:300px;
+    width: 500px;
+    float: right;
+     font-size:40px;
+    text-shadow: 2px 2px 2px black;
+}

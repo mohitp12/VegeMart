@@ -1,0 +1,12 @@
+body{
+    width: 1024px;
+    margin: auto;
+    font-family:Arial;
+    background-color:lightgrey;
+}
+
+p{
+    font-size:15px;
+    font-style:italic;
+    color:grey;
+}

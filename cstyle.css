@@ -1,0 +1,17 @@
+body{
+    width: 1024px;
+    margin: auto;
+    font-family:Arial;
+    background-color: lightgrey;
+    color: white;
+}
+
+div#text{
+    font-size:26px;
+    margin-right: 100px;
+    margin-top: 50px;
+    float: right;
+    width: 500px;
+    height: 500px;
+    color: grey;
+}
